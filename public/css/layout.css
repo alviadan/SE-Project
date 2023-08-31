@@ -1,0 +1,65 @@
+*{
+    box-sizing: border-box;
+}
+
+nav#navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 9999;
+}
+
+.start{
+    padding-top: 80px;
+}
+
+.btn{
+    padding: 8px 23px;
+    padding-top: 6px;
+    border-radius: 3px;
+}
+
+.btn2{
+    padding: 3px 9px;
+    padding-top: 2px;
+    border-radius: 3px;
+    font-size: 12px;
+}
+
+.btn3{
+    padding: 0;
+    margin-left: 10px;
+    padding-top: 1px;
+    border-radius: 3px;
+    font-size: 12px;
+}
+
+.btn4{
+    padding: 0;
+    margin-left: 10px;
+    padding-top: 1px;
+    border-radius: 3px;
+    font-size: 16px;
+}
+
+.nav-item{
+    width: 110px;
+}
+
+.nav-item .strip{
+    height: 3px;
+    width: 110px;
+    position: absolute;
+    top: 59.2px;
+    border-radius: 8px;
+}
+
+.navbar .container{
+    height: 50px;
+}
+
+.nav-item .profile-picture{
+    object-fit: cover;
+    margin-top: -5.5px;
+    padding-bottom: 0;
+}

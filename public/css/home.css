@@ -1,0 +1,110 @@
+:root,
+[data-bs-theme=light] {
+  --bs-primary: #960000;
+}
+
+.all{
+    background-color: #dadada;
+}
+
+.leftRect{
+    width: 300px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+}
+
+.stack-1 .pencet{
+    margin-top: -32px;
+    margin-right: 10px;
+}
+
+.stack-1 p{
+    font-size: 14px;
+}
+
+.text{
+    color: var(--bs-primary);
+}
+
+.notif{
+    background-color: var(--bs-primary);
+    height: 6px;
+    width: 6px;
+    margin-left: 2px;
+}
+
+.search_bar{
+    background-color: var(--bs-primary);
+    border-radius: 10px ;
+}
+
+.midRect{
+    width: 650px;
+    height: fit-content;
+    padding-bottom: 20px;
+}
+
+.form-control, .form-select{
+    font-size: 12px;
+    border-radius: 3px;
+}
+
+.lower_search{
+    font-size: 11px;
+    margin-right: 18px;
+}
+
+.line-divide{
+    background-color: #fff;
+    height: 22px;
+    width: 1px;
+    margin-left: 7px;
+}
+
+.input-group .icon{
+    font-size: 12px;
+    color: var(--bs-primary);
+}
+
+.Postcard-container{
+    border-radius: 10px ;
+}
+
+.post-profile{
+    font-size: 12px;
+}
+
+.Postcard-container .fa-star{
+    font-size: 12px;
+    margin-right: 4px;
+    color: var(--bs-primary);
+}
+
+.follow-button p,
+.follow-button .fa-plus{
+    color: var(--bs-primary);
+}
+
+.project-carousel {
+    height: 350px;
+    object-fit: cover;
+}
+
+.caption p{
+    margin-bottom: 0;
+}
+
+.rightRect{
+    width: 300px;
+    /* padding-bottom: 20px; */
+    border-radius: 10px;
+}
+
+.stack-konten{
+    margin-top: -2px;
+}
+
+.btn-follow{
+    font-size: 12px;
+    padding: 2px 5px;
+}

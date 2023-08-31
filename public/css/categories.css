@@ -1,0 +1,15 @@
+.categories{
+    border-radius: 10px;
+}
+
+.notifM{
+    width: 300px;
+}
+
+.categories .day{
+    font-size: 12px;
+}
+
+.all{
+    background-color: #dadada;
+}

@@ -1,0 +1,20 @@
+.rect1{
+    height: 400px;
+    width: 630px;
+    background-color: #960000;
+}
+
+.rect2{
+    height: 400px;
+    width: 630px;
+    background-color: #1A1A1A;
+}
+
+.ilustration img{
+    position: absolute;
+    z-index: 999;
+}
+
+.all{
+    background-color: #fff;
+}

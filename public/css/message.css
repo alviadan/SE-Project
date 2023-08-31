@@ -1,0 +1,28 @@
+.all{
+    background-color: #dadada;
+}
+
+.leftMsg{
+    width: 400px;
+    border-radius: 10px;
+}
+
+.leftMsg .konten .time{
+    /* width: 100%; */
+    font-size: 12px;
+}
+
+.leftMsg .konten .sneak{
+    max-width: 170px;
+    font-size: 14px;
+}
+
+.rightMsg{
+    width: 68%;
+    border-radius: 10px;
+    max-height: 625px;
+}
+
+.pusat .fa-comment-dots{
+    font-size: 100px;
+}
